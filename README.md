@@ -13,20 +13,20 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@+GLA+University;AI+%26+DATA+Engineer;AI+and+Automation+Learner;Building+projects+that+impact+%F0%9F%92%A1" width="100%" />
-
+</p>
 
 
 <br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajsirohi23&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="profile views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/rajsirohi23?style=for-the-badge&color=8b5cf6&labelColor=0d1117&label=FOLLOWERS" alt="followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Engineering-blueviolet?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 </p>
-</p>
+
 
 </div>
 
