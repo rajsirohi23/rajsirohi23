@@ -290,11 +290,11 @@ class RajSirohi:
 
 <br/>
 
-<a href="mailto:rajsirohi23@gmail.com">
+<a href="mailto:rajsirohi2555@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/rajsirohi23">
+<a href="https://https://www.linkedin.com/in/raj-sirohi-64b330289/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
