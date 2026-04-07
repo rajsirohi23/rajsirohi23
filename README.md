@@ -266,10 +266,13 @@ class RajSirohi:
 
 <div align="center">
 
-## ◈ &nbsp;`CONTRIBUTION GRAPH`&nbsp; ◈
+## ◈ &nbsp;`🎓 Certifications & Achievements `&nbsp; ◈
 
-## 🐍 Snake Eating My Contributions
-![snake gif](https://github.com/rajsirohi23/rajsirohi23/blob/output/snake.svg)
+- 🥇 **Java Mastery Certificate** (HackerRank)  
+- 🧩 **Full Stack Web Development Certification**  
+- 🧠 **AI Fundamentals Badge** (Microsoft Learn)  
+- 🔥 **50 Days LeetCode Streak**  
+- 🏅 **Top 5% in University Coding Challenge**
 
 </div>
 
