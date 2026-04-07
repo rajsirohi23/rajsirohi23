@@ -96,7 +96,7 @@ const raj = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1a1a4e&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajsirohi23&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1a1a4e&hide_border=true" width="95%"/>
 
 <br/>
 
