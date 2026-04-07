@@ -100,7 +100,7 @@ const raj = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=7&margin-w=10" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajsirohi23&theme=algolia&no-frame=true&column=7&margin-w=10" width="95%"/>
 
 </div>
 
