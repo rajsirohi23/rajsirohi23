@@ -9,11 +9,6 @@
 
 
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=750&height=55&lines=🔭+Building+the+Future+with+Data+%26+AI;⚡+Data+Engineer+%7C+Full+Stack+Developer;🧠+Machine+Learning+%7C+NLP+%7C+Big+Data;🚀+Aspiring+Software+Architect+%7C+AI+Engineer;💡+Turning+Raw+Data+into+Intelligence" alt="Typing SVG" />
-</a>
-
 
 
 <p align="center">
