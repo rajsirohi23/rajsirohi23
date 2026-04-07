@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@+GLA+University;MERN+Stack+Developer;AI+and+Automation+Learner;Building+projects+that+impact+💡" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@+GLA+University;AI+&+DATA+Engineer;AI+and+Automation+Learner;Building+projects+that+impact+💡" width="100%" />
 </p>
 
 
