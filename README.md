@@ -6,10 +6,20 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0a2e,60:0d0d3d,100:1a0533&height=200&section=header&text=RAJ%20SIROHI&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20AI%2FML%20Architect&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn"/>
 
+
+
+
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=750&height=55&lines=🔭+Building+the+Future+with+Data+%26+AI;⚡+Data+Engineer+%7C+Full+Stack+Developer;🧠+Machine+Learning+%7C+NLP+%7C+Big+Data;🚀+Aspiring+Software+Architect+%7C+AI+Engineer;💡+Turning+Raw+Data+into+Intelligence" alt="Typing SVG" />
 </a>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@+GLA+University;MERN+Stack+Developer;AI+and+Automation+Learner;Building+projects+that+impact+💡" width="100%" />
+</p>
+
 
 <br/>
 
