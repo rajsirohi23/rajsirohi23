@@ -268,6 +268,7 @@ class RajSirohi:
 <div align="center">
 
 ## ◈ &nbsp;`🎓 Certifications & Achievements `&nbsp; ◈
+</div>
 
 - 🥇 **Java Mastery Certificate** (HackerRank)  
 - 🧩 **Full Stack Web Development Certification**  
@@ -275,7 +276,7 @@ class RajSirohi:
 - 🔥 **50 Days LeetCode Streak**  
 - 🏅 **Top 5% in University Coding Challenge**
 
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
