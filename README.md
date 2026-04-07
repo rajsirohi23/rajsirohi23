@@ -1,4 +1,4 @@
-<div align="center">
+                 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      HERO BANNER                              -->
@@ -189,13 +189,11 @@
 
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarunkumar0089&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajsirohi23&theme=tokyo-night)
 
 <br/>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/9D00FF/Tarunkumar0089" alt="Tarun's GitHub chart" width="90%" />
-</p>
+
 
 
 
