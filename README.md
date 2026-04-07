@@ -174,7 +174,7 @@
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajsirohi23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajsirohi23&theme=tokyonight&hide_border=true&background=0d1117&stroke=818cf8&ring=a78bfa&fire=f472b6&currStreakLabel=818cf8&sideLabels=818cf8&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=10" alt="GitHub Streak"/>
 
 <br/>
