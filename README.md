@@ -180,8 +180,6 @@
 <br/>
 
 
-<img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajsirohi23&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a78bfa&hide_border=true&border_radius=10" alt="Contribution Graph"/>
-
 </div>
 
 <br/>
