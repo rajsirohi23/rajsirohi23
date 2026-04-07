@@ -1,4 +1,4 @@
-                 <div align="center">
+<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      HERO BANNER                              -->
@@ -294,11 +294,11 @@ class RajSirohi:
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="https://https://www.linkedin.com/in/raj-sirohi-64b330289/">
+<a href="https://www.linkedin.com/in/raj-sirohi-64b330289/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/rajsirohi23">
+<a href="https://leetcode.com/u/rajsirohi_01/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
