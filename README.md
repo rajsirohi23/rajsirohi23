@@ -179,8 +179,7 @@
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsirohi23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages"/>
-&nbsp;&nbsp;
+
 <img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajsirohi23&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a78bfa&hide_border=true&border_radius=10" alt="Contribution Graph"/>
 
 </div>
