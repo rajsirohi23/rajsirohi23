@@ -270,11 +270,10 @@ class RajSirohi:
 ## ◈ &nbsp;`🎓 Certifications & Achievements `&nbsp; ◈
 </div>
 
-- 🥇 **Java Mastery Certificate** (HackerRank)  
-- 🧩 **Full Stack Web Development Certification**  
-- 🧠 **AI Fundamentals Badge** (Microsoft Learn)  
-- 🔥 **50 Days LeetCode Streak**  
-- 🏅 **Top 5% in University Coding Challenge**
+- 🥇 **Crush Course on Python (Google)** (HackerRank)  
+- 🧩 **Oracle Cloud : Certified Data Science Professional**  
+- 🧠 **Java Master Course | Crux**   
+- 🔥 **DP-100 :- Microsoft Data Scientist Associate**  
 
 
 
